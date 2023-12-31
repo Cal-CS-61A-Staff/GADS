@@ -60,6 +60,6 @@ The specific details regarding the assignment don't matter for GADS. Template PD
 
 - num_discussions - total number of discussions in the course
 
-  6. Run `python update_attendance.py -u <your gradescope username>`. You will be prompted to enter your password. Do that.
+6. Run `python update_attendance.py -u <your gradescope username>`. You will be prompted to enter your password. Do that.
  
-  Note: for large courses, this script can take up to 30 min to run. If you would like your script to run automatically on 61a's GCP, contact 61a infra. 
+Note: for large courses, this script can take up to 30 min to run. If you would like your script to run automatically on 61a's GCP, contact 61a infra. 
